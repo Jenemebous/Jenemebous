@@ -1,5 +1,9 @@
 ### Olá! Eu sou a Ana :)
 
+<p align="center">
+  <img src="[https://media.tenor.com/a_JvvZ_a5dAAAAAi/sonic-fox.gif](https://tenor.com/pt-BR/view/junimo-stardew-stardew-valley-love-heart-gif-21722179)" width="100px">
+</p>
+
 ## Redes
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-oliveira-ba700128a/)
