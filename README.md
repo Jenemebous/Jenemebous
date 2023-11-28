@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ana :)
 
 <p align="center">
-    <img src="https://media.tenor.com/bDi5T.gif" width="100px">
+    <img src="https://tenor.com/bDi5T.gif" width="50px">
 </p>
 
 ## Redes
