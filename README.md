@@ -8,7 +8,7 @@
 
 ## Dados do GitHub:
 
-![Mawabi GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jenemebous&show_icons=true&theme=tokyonight)
+![Ana GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jenemebous&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenemebous&layout=compact)
 
