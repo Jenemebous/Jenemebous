@@ -8,9 +8,7 @@
 
 ## Dados do GitHub:
 
-![Ana GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jenemebous&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenemebous&layout=compact)
 
 ## Tecnologias que eu utilizo com frequência:
 <div style="display: inline-block">
