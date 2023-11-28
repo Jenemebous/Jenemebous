@@ -7,11 +7,7 @@
 
 </p>
 
-## Redes
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-oliveira-ba700128a/)
-
-## Outros
+## Dados do GitHub
 
 ![Mawabi GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jenemebous&show_icons=true&theme=tokyonight)
 
@@ -27,3 +23,19 @@
 <br>
  <br>
 </div>
+
+## Entre em contato com minha pessoa por
+
+
+<a href="mailto:poopys.al.br@gmail.com">
+  <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+</a>
+<a href="https://www.instagram.com/anamonteiro.tea/">
+  <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+</a>
+<a href="https://github.com/Jenemebous">
+  <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+</a>
+<br>
+
+
