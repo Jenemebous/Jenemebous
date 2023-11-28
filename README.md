@@ -6,10 +6,6 @@
         <img src="https://media.tenor.com/PfkQubt0AZsAAAAi/diddy-kong-donkey-kong.gif" width="65px">
 </p>
 
-## Dados do GitHub:
-
-
-
 ## Tecnologias que eu utilizo com frequência:
 <div style="display: inline-block">
  <br>
@@ -31,6 +27,12 @@
   <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
 <br>
+
+## Dados do GitHub:
+
+![Ana GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jenemebous&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenemebous&layout=compact)
 
 ## Agradecida! Obrigada pela visita. 
 
