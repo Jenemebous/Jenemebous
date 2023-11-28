@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ana :)
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/junimo-stardew-stardew-valley-love-heart-gif-21722179" width="100px">
+    <img src="https://tenor.com/bDi5T.gif" width="100px">
 </p>
 
 ## Redes
