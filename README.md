@@ -17,7 +17,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenemebous&layout=compact)
 
-## Tecnologias que eu uso no meu dia-a-dia
+## Tecnologias que eu utilizo com frequência
 <div style="display: inline-block">
       <br>
  <br>
