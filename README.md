@@ -1,9 +1,9 @@
 ### Olá! Eu sou a Ana :)
 
 <p align="center">
-    <img src="https://media.tenor.com/5d3Q3HlEuvUAAAAi/chicken-run.gif" width="50px">
-       <img src="https://media.tenor.com/mD0gwJLs_sIAAAAi/xflame.gif" width="50px">
-        <img src="https://media.tenor.com/PfkQubt0AZsAAAAi/diddy-kong-donkey-kong.gif" width="50px">
+    <img src="https://media.tenor.com/5d3Q3HlEuvUAAAAi/chicken-run.gif" width="60px">
+       <img src="https://media.tenor.com/fpcVXS2W2M4AAAAi/yay-heart.gif" width="60px">
+        <img src="https://media.tenor.com/PfkQubt0AZsAAAAi/diddy-kong-donkey-kong.gif" width="65px">
 
 </p>
 
