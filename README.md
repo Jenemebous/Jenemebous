@@ -2,11 +2,9 @@
 
 <p align="center">
     <img src="https://media.tenor.com/5d3Q3HlEuvUAAAAi/chicken-run.gif" width="50px">
-     <img src="https://media.tenor.com/CKFjEbkeYZAAAAAC/junimo-stardew.gif" width="50px">
-      <img src="https://media.tenor.com/EnxOSqEpOzcAAAAC/stardew-valley-stardew.gif" width="50px">
        <img src="https://media.tenor.com/mD0gwJLs_sIAAAAi/xflame.gif" width="50px">
-        <img src="https://media.tenor.com/JLAIN7da2PMAAAAC/junimo-stardew.gif" width="50px">
-         <img src="https://media.tenor.com/EXLzZ4z1UQYAAAAC/junimo-stardew.gif" width="50px">
+        <img src="https://media.tenor.com/PfkQubt0AZsAAAAi/diddy-kong-donkey-kong.gif" width="50px">
+
 </p>
 
 ## Redes
