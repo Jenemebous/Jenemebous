@@ -39,6 +39,6 @@
 ## Agradecida! Obrigada pela visita.
 
 <p align="center">
-    <img src="https://media.tenor.com/sNtK8bxJ14UAAAAi/amazed-impressed.gif" width="70px">
+    <img src="https://media.tenor.com/sNtK8bxJ14UAAAAi/amazed-impressed.gif" width="65px">
        <img src="https://media.tenor.com/M3W0XzAp65cAAAAi/undertale-papyrus.gif" width="60px">
 </p>
