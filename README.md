@@ -1,10 +1,9 @@
-### Olá! Eu sou a Ana :)
+### Olá! Eu sou a Ana. Uma estudante de programação, atualmente cursando Desenvolvimento de Sistemas.
 
 <p align="center">
     <img src="https://media.tenor.com/5d3Q3HlEuvUAAAAi/chicken-run.gif" width="60px">
        <img src="https://media.tenor.com/fpcVXS2W2M4AAAAi/yay-heart.gif" width="60px">
         <img src="https://media.tenor.com/PfkQubt0AZsAAAAi/diddy-kong-donkey-kong.gif" width="65px">
-
 </p>
 
 ## Dados do GitHub
@@ -26,16 +25,20 @@
 
 ## Entre em contato com minha pessoa por
 
-
+<a href="https://github.com/Jenemebous">
+  <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+</a>
 <a href="mailto:poopys.al.br@gmail.com">
   <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 <a href="https://www.instagram.com/anamonteiro.tea/">
   <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>
-<a href="https://github.com/Jenemebous">
-  <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-</a>
 <br>
 
+## Agradecida! Obrigada pela visita.
 
+<p align="center">
+    <img src="https://media.tenor.com/sNtK8bxJ14UAAAAi/amazed-impressed.gif" width="60px">
+       <img src="https://media.tenor.com/M3W0XzAp65cAAAAi/undertale-papyrus.gif" width="60px">
+</p>
